@@ -59,6 +59,8 @@
 - [Connector-v2] [Redis] Using scan replace keys operation command,support batchWrite in single mode(#7030,#7085)
 - [Connector-V2] [Clickhouse] Add a new optional configuration `clickhouse.config` to the source connector of ClickHouse (#7143)
 - [Connector-V2] [Redis] Redis scan command supports versions 3, 4, 5, 6, 7 (#7666)
+- [Connector-V2] Support for AWS Glue Data Catalog in Apache Iceberg connector #8559
+
 
 ### Zeta(ST-Engine)
 
