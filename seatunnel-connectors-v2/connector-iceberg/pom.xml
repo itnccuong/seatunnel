@@ -67,7 +67,7 @@
         <dependency>
             <groupId>software.amazon.awssdk</groupId>
             <artifactId>glue</artifactId>
-            <version>${software.amazon.awssdk.version}</version>          
+            <version>${software.amazon.awssdk.version}</version>
         </dependency>
         <dependency>
             <groupId>software.amazon.awssdk</groupId>
